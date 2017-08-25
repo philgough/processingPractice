@@ -1,2 +1,2 @@
-# processingPractice
-Random collection of processing experiments
+# Processing Practice
+Random collection of processing experiments by Phil Gough, for no real reason.
