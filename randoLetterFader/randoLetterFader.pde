@@ -4,8 +4,8 @@ int gridX, gridY;
 void setup()
 {
   size(1000, 1000);
-  gridX = width/20;
-  gridY = height/20;
+  gridX = width/15  ;
+  gridY = height/15;
 
   grid = new Grid[gridX][gridY];
 
