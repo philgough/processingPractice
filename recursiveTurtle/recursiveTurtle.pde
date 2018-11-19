@@ -13,7 +13,7 @@ void drawLine(float startX, float startY, float heading, float turn, float dist,
 }
 
 void setup() {
-  size(500, 500);
+  size(1000, 1000);
   colorMode(HSB, 360, 100, 100, 100);
   drawLine(width/2, height/2, 0.0, radians(122), 10.0,1.05, 300);
   stroke(255);
